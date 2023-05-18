@@ -1,0 +1,294 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/lab3/week3/verilog
+vCollision
+Z0 !s110 1683402220
+!i10b 1
+!s100 ]GOMOcEI:=>8FdlSH9UK;3
+I15oNKadPFhb0CT@3QI9W61
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project
+Z3 w1683356834
+Z4 8C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Collision.v
+Z5 FC:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Collision.v
+L0 8
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1683402220.000000
+Z8 !s107 C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Collision.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Collision.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@collision
+vCollision_testbench
+R0
+!i10b 1
+!s100 VFcGCRUG5;dXf;LEz6EkA1
+I5YoK3[7gJPYJoLNiL5XZj3
+R1
+R2
+R3
+R4
+R5
+L0 59
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@collision_testbench
+vColor
+R0
+!i10b 1
+!s100 KUF[MSN`kcZjn9O@c61am3
+I?k^2mG4IJIWSZjiFN]oPo1
+R1
+R2
+Z12 w1683402217
+Z13 8C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/color.v
+Z14 FC:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/color.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/color.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/color.v|
+!i113 1
+R10
+R11
+n@color
+vcolor_testbench
+R0
+!i10b 1
+!s100 A7FIkCnkJ[1hb]4>;oNMg3
+ImkJ`GzIDOO`>jR1lTW>Di0
+R1
+R2
+R12
+R13
+R14
+L0 36
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vDrum_testbench
+!s110 1683400934
+!i10b 1
+!s100 aDTT0XdOoZznOo[KE^2Pk2
+I>GdON<WR0T9Mcg_APIoN[3
+R1
+R2
+w1683400840
+Z17 8C:\Cornell\23_Spring\ECE 5760\Lab\ECE_5760_Git\final_project\verilog\FHP.v
+Z18 FC:\Cornell\23_Spring\ECE 5760\Lab\ECE_5760_Git\final_project\verilog\FHP.v
+Z19 L0 127
+R6
+r1
+!s85 0
+31
+!s108 1683400934.000000
+Z20 !s107 C:\Cornell\23_Spring\ECE 5760\Lab\ECE_5760_Git\final_project\verilog\FHP.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:\Cornell\23_Spring\ECE 5760\Lab\ECE_5760_Git\final_project\verilog\FHP.v|
+!i113 1
+R10
+R11
+n@drum_testbench
+vFHP
+R0
+!i10b 1
+!s100 CcoblUZMDGli;6FgUDXOY1
+IX0;MaW5QUPe[ezgGJI1^<0
+R1
+R2
+Z22 w1683400950
+R17
+R18
+L0 7
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+n@f@h@p
+vFHP_testbench
+R0
+!i10b 1
+!s100 z8VcEE58KJa5G7UMoeCm`3
+IimE7K9_hIUYW;B7`^oa952
+R1
+R2
+R22
+R17
+R18
+R19
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+n@f@h@p_testbench
+vFHPCol
+R0
+!i10b 1
+!s100 P2nl:L8Q2n4hKXZf3?6X50
+IY2l0R@GEB1=]>oi<NX3jk2
+R1
+R2
+R3
+Z23 8C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/FHPCol.v
+Z24 FC:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/FHPCol.v
+L0 10
+R6
+r1
+!s85 0
+31
+R7
+Z25 !s107 C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/FHPCol.v|
+Z26 !s90 -reportprogress|300|-work|work|-stats=none|C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/FHPCol.v|
+!i113 1
+R10
+R11
+n@f@h@p@col
+vFHPCol_testbench
+R0
+!i10b 1
+!s100 3a?SRHRG2EGnjdl[If;5@0
+I0[:MZ8aA9EBaVCRHTl?432
+R1
+R2
+R3
+R23
+R24
+L0 244
+R6
+r1
+!s85 0
+31
+R7
+R25
+R26
+!i113 1
+R10
+R11
+n@f@h@p@col_testbench
+vMem
+R0
+!i10b 1
+!s100 =DWWf80B^]K>MPEmX^`RO0
+I4in]GzP<QQfBh=9:cMahN2
+R1
+R2
+R3
+Z27 8C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Mem.v
+Z28 FC:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Mem.v
+L0 9
+R6
+r1
+!s85 0
+31
+R7
+Z29 !s107 C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Mem.v|
+Z30 !s90 -reportprogress|300|-work|work|-stats=none|C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Mem.v|
+!i113 1
+R10
+R11
+n@mem
+vMem_testbench
+R0
+!i10b 1
+!s100 `0Ai?ceV4_6TIViE]nGYZ3
+I4B1TC@UK];`KZ>M_<Hzmc3
+R1
+R2
+R3
+R27
+R28
+L0 41
+R6
+r1
+!s85 0
+31
+R7
+R29
+R30
+!i113 1
+R10
+R11
+n@mem_testbench
+vPropagation
+R0
+!i10b 1
+!s100 AFEcAAf:HdmnEa3ZhM>Pl0
+IFAm:Ki8nMV2[3S[J@ECWZ1
+R1
+R2
+R3
+8C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Propagation.v
+FC:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Propagation.v
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Propagation.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/Propagation.v|
+!i113 1
+R10
+R11
+n@propagation
+vrand63
+R0
+!i10b 1
+!s100 XzZVaUm[1D2EOb@`DL5Hz1
+IWOd_k9aKJG10P:@^ajjIR3
+R1
+R2
+R3
+8C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/rand.v
+FC:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/rand.v
+L0 14
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/rand.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Cornell/23_Spring/ECE 5760/Lab/ECE_5760_Git/final_project/verilog/rand.v|
+!i113 1
+R10
+R11
